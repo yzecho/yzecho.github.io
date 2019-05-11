@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yzecho</title>
+    <link>https://yzecho.github.io/</link>
+    <description>Recent content on yzecho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 07:34:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://yzecho.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于我</title>
+      <link>https://yzecho.github.io/about/</link>
+      <pubDate>Sun, 12 May 2019 07:34:21 +0800</pubDate>
+      
+      <guid>https://yzecho.github.io/about/</guid>
+      <description> yzecho  90后，目前是一名在校软件工程专业本科生，对编码有着持续的热情 本站主要分享关于语言基础和web技术相关的文章 希望大家能互相交流，我在不停汲取大家宝贵经验的同时，也想回馈自己的所学所感给读者  </description>
+    </item>
+    
+  </channel>
+</rss>

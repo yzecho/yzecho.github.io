@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yzecho.github.io/</loc>
+    <lastmod>2019-05-12T07:34:21+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yzecho.github.io/about/</loc>
+    <lastmod>2019-05-12T07:34:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yzecho.github.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yzecho.github.io/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yzecho.github.io/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yzecho.github.io/pt-br/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yzecho.github.io/pt-br/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yzecho.github.io/pt-br/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yzecho.github.io/pt-br/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yzecho.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://yzecho.github.io/pt-br/tags/"
+                />
+  </url>
+  
+</urlset>
